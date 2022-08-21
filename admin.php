@@ -9,7 +9,6 @@ include_once('header.php');
 
 <div class=" mb-5 mt-1 mx-2">
 <h1 class="text-center p-2 bg-success text-white">Admin Panel</h1>
-
 <a href="logout.php" class="btn btn-danger"><i class="fa fa-lock mr-1"></i>Logout</a>
 <input type="text" name="search"  id="search" placeholder="search">
 <div id="message"></div>
