@@ -1,0 +1,5 @@
+undefinde error
+not html in php 
+sql injection
+load_data()
+session improvement

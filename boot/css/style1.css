@@ -1,0 +1,41 @@
+.first{
+    background-color: teal;
+    font-style: italic;
+}
+body{
+    position:relative;
+}
+#myModal{
+    width: 50%;
+    position: absolute;
+    top: 0;
+    left : 25%;
+    display: none;
+}
+#search{
+    float: right;
+    width: 300px;
+    border-color: unset;
+    border-radius: 5px;
+    padding-left: 13px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+.pagination{
+    text-align: center;
+    display: block !important;
+}
+
+.pagination a{
+    background-color: rgb(20, 207, 145);
+    color: white;
+    padding: 10px 15px;
+}
+.active{
+    background-color: brown !important ;
+    color: white;
+    padding: 10px 15px;
+}
+.pagination a{
+    text-align: center !important;
+}
