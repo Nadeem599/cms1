@@ -39,3 +39,8 @@ body{
 .pagination a{
     text-align: center !important;
 }
+.thumbnail{
+    -webkit-mask-image: url(../../image/w3logo.png);
+    mask-image: url(../../image/w3logo.png);
+    mask-repeat: no-repeat;
+}
